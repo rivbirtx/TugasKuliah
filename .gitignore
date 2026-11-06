@@ -1,0 +1,62 @@
+
+# =================================
+# Unity
+# =================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity generated files
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity IDE
+.vs/
+.idea/
+
+# =================================
+# Visual Studio Code
+# =================================
+.vscode/
+
+# =================================
+# Windows
+# =================================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =================================
+# macOS
+# =================================
+.DS_Store
+
+# =================================
+# Temporary files
+# =================================
+*.tmp
+*.temp
+*.bak
+*.log
+
+# =================================
+# Build outputs
+# =================================
+dist/
+node_modules/
+Tugas2/Packages/com.ptc.vuforia.engine-11.4.4.tgz
